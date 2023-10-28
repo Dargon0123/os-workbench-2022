@@ -1,6 +1,4 @@
-export TOKEN   := ???
-
-# ----- DO NOT MODIFY -----
+# **DO NOT MODIFY**
 
 ifeq ($(NAME),)
 $(error Should make in each lab's directory)
